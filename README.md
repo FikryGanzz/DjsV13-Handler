@@ -1,8 +1,8 @@
 # DjsV13-Handler
 An easy Djs V13 Handler for your bot!
 
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/FikryGanzz/DjsV13-Handler)<br>
-[![Run on Repl.it](https://repl.it/badge/github/vcodes-xyz/bot-list)](https://repl.it/github/FikryGanzz/DjsV13-Handler)<br>
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/FikryGanzz/DjsV13-Handler)
+[![Run on Repl.it](https://repl.it/badge/github/vcodes-xyz/bot-list)](https://repl.it/github/FikryGanzz/DjsV13-Handler)
 [![ISSUES](https://img.shields.io/github/issues-raw/FikryGanzz/DjsV13-Handler?color=blue&logo=github&style=for-the-badge)](https://github.com/FikryGanzz/DjsV13-Handler/issues)
 
 ## Requirements
